@@ -11,13 +11,13 @@
   flex-direction: column;
   gap: 3rem;
 }
-#output {
+#results-div {
   padding: 2rem;
   background-color: #ededed;
   border: 3px solid white;
 }
 input {
-  width: 65%;
+  width: 100%;
   padding: 0.5rem;
   border: 1px solid white;
 }
@@ -28,6 +28,7 @@ button {
   border: 1px solid white;
   font-size: 16px;
   cursor: pointer;
+  margin-right: 1rem;
 }
 label {
   font-size: 32px;
